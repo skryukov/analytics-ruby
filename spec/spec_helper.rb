@@ -1,6 +1,6 @@
 # https://github.com/codecov/codecov-ruby#usage
-require 'simplecov'
-SimpleCov.start
+# require 'simplecov'
+# SimpleCov.start
 # require 'codecov'
 # SimpleCov.formatter = SimpleCov::Formatter::Codecov
 
